@@ -1,4 +1,3 @@
-Overview
 This project is divided into two main folders: backend and frontend. The frontend is built using React, and this README will guide you through setting up and running the project on your local machine.
 
 Prerequisites
